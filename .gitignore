@@ -1,0 +1,47 @@
+# Ignore Vivado generated files
+*.jou
+*.log
+*.str
+*.opt
+*.pb
+*.xml
+*.html
+*.backup
+*.restore
+*.bit
+*.bin
+*.prj
+*.svf
+*.bgn
+*.dcp
+*.wdb
+*.rpt
+*.sim
+*.xpr
+*.xsa
+
+# Ignore Vivado folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.srcs/
+.xpr/
+.runs/
+.Xil/
+
+# Ignore simulation output
+*.vcd
+*.wlf
+*.lxt*
+*.vvp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*~
+*.bak
+*.tmp
+*.swp
