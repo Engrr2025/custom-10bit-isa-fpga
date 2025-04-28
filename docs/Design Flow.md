@@ -8,7 +8,7 @@ This section describes the design, development, and FPGA implementation flow for
 
 **Tools Used:**  
 - **Language:** Verilog HDL
-- **Tool:** Xilinx Vivado 2023.1+
+- **Tool:** Xilinx Vivado 2018.2+
 
 **Activities:**
 - Writing synthesizable Verilog modules:
