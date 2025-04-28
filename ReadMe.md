@@ -139,7 +139,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## ✨ Contributors (Group Memebers)
 
 - **Junaid Khalid** — [GitHub Profile](https://github.com/Engrr2025)  
-- **Abdul Rahman**  
+- **Abdul Rahman**  — [GitHub Profile](https://github.com/arkhawja) 
 
 Mentored by **Sir Ali Roman**, COMSATS University Islamabad – Wah Campus.
 
